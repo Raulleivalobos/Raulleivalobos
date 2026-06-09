@@ -1,84 +1,108 @@
 <p align="center">
-    <img src="Comprimido Rleiva.jpg" />
-</p>
+  <img src="Banner Raul Leiva.jpg" >
+   </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=65&pause=1200&color=75d41d&background=00000000&center=true&vCenter=true&width=880&height=120&lines=%3CFront-End+Developer+/%3E;%3CEthical+Hacking+/%3E;%3CCTF+Player+/%3E;%3CBootcamp+Instructor+/%3E;%3CREUF+Instructor+(SENCE)+/%3E" />
+  <a href="https://linkedin.com/in/rleiva"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <!--[cite: 4] -->
+  <a href="mailto:raul.leiva.lobos@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> <!--[cite: 4] -->
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wh01s17&color=blueviolet&style=flat-square">
-  <img src="https://img.shields.io/github/followers/wh01s17?style=flat-square">
+---
+
+**👨‍💼Sobre Mí | About Me**
+
+Soy un **Ingeniero Comercial y Contador** con más de 20 años de experiencia liderando áreas de Administración y Finanzas. Actualmente, fusiono mi sólido background corporativo con el **Desarrollo de Software (Front-End)**, la **Automatización de Procesos** y la **Tecnología Blockchain**.
+
+Mi objetivo es liderar la transformación digital desde adentro, construyendo interfaces eficientes, automatizando flujos de trabajo e integrando arquitecturas que generen impacto real en el modelo de negocio.
+
+- 🏢 **Liderazgo Corporativo:** He dirigido equipos de alto rendimiento y optimizado procesos financieros, logrando reestructuraciones y ahorros millonarios en el sector corporativo.
+- 💻 **Desarrollo Web & Producto:** Construyo aplicaciones modernas y responsivas (desde la concepción de la marca hasta el despliegue), integrando automatizaciones que conectan sistemas complejos con el usuario final.
+- 🔗 **Blockchain & Web3:** Egresado destacado en Tecnologías Blockchain, comprendiendo tanto la arquitectura descentralizada como su aplicación financiera y legal.
+- 📊 **ERP & Data:** Usuario experto en SAP e integraciones, transformando datos complejos en dashboards interactivos para la toma de decisiones.
+
+---
+
+**🚀 Proyectos Destacados**
+
+A continuación, presento sistemas y aplicaciones que he desarrollado, abarcando desde pilotos comerciales en producción hasta arquitecturas Front-End avanzadas:
+
+### 1. Skardkey | Plataforma de Identidad Digital y Beneficios
+
+**Estado:** `En Producción (Piloto)` | **Rol:** `Arquitecto Cloud & Full-Stack Developer`
+
+> Plataforma B2B/B2C para la gestión integral de identidad corporativa, credenciales y beneficios. Desarrollada sobre una arquitectura híbrida (Server/Client-side) de alta escalabilidad, con generación de documentos dinámicos, geolocalización y validación criptográfica en tiempo real.
+
+- **Enlace comercial:** [www.skardkey.cl](https://www.skardkey.cl)
+- **Arquitectura & Frontend:** Desarrollado con **Next.js 16.2** (App Router) y **React 19**, fuertemente tipado con **TypeScript 5**. Interfaces animadas, responsivas y con estética _glassmorphism_ utilizando **Tailwind CSS v4**, **PostCSS** y **Framer Motion**.
+- **Backend & Base de Datos:** Infraestructura BaaS unificada sobre **Supabase** y **PostgreSQL** (con Triggers y RPCs), gestionando autenticación segura (RBAC), Storage en la nube y Server-Side Rendering (SSR).
+- **Core Features:** Motor de escaneo y generación QR en tiempo real (`html5-qrcode`, `qrcode.react`), emisión de certificados PDF firmados (`jspdf`), renderizado de UI a imagen de alta definición (`html2canvas`), mapas interactivos (`react-leaflet`), dashboards financieros dinámicos (`recharts`) e importación masiva de datos (`xlsx/papaparse`).
+- **Infraestructura & APIs:** Despliegue Serverless automatizado en **Vercel**, correos transaccionales con **Brevo API** (ex Sendinblue), y proxy de optimización de imágenes CDN (Weserv.nl).
+
+- **Stack Tecnológico:** <p align="left">
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/TypeScript_5-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Tailwind_CSS_v4-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind">
+  <img src="https://img.shields.io/badge/Supabase_BaaS-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Vercel_Serverless-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+      </p>
+
+### 2. ClimaCL | Aplicación Meteorológica Segura
+
+**Estado:** `Completado` | **Rol:** `Front-End Developer`
+
+> Aplicación web dinámica de pronóstico meteorológico para Chile con autenticación de usuarios y consumo de APIs externas. Cuenta con rutas protegidas, gestión de estado global para preferencias de usuarios e interfaces limpias orientadas al turismo.
+
+- **Repositorio:** [Ver código fuente en GitHub](https://github.com/Raulleivalobos/weather-frontend-m7)
+
+- **Stack Tecnológico:** <p align="left">
+  <img src="https://img.shields.io/badge/Framework-Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
+  <img src="https://img.shields.io/badge/State-Pinia-FFD15C?style=flat-square&logo=vuedotjs&logoColor=black" alt="Pinia">
+  <img src="https://img.shields.io/badge/Auth-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase">
+  <img src="https://img.shields.io/badge/HTTP-Axios_&_APIs-5A29E4?style=flat-square&logo=axios&logoColor=white" alt="Axios">
+      </p>
+
+---
+
+## 🛠️ Stack Tecnológico & Habilidades
+
+### 💻 Desarrollo de Software & Automatización
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue,bootstrap,sass,vite" alt="Front-End Stack" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=supabase,firebase,mysql,postgres,postman" alt="Backend & APIs" /> 
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,bash" alt="Tools & DevOps" /> 
+  <br>
+  <img src="https://img.shields.io/badge/PL%2FpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PL/pgSQL"> 
 </p>
 
-<br />
+### 📈 Finanzas, ERP, Analítica & IA
 
-<p align="center">
-Senior en Finanzas y Contabilidad reconvirtiéndose al desarrollo web. Desarrollador Front-End Trainee apasionado por automatizar procesos, analizar datos y construir interfaces eficientes con React y JavaScript. 🚀
+<p align="left">
+  <img src="https://img.shields.io/badge/SAP_ERP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP"> 
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"> 
+  <img src="https://img.shields.io/badge/n8n_Automation-FF6B6B?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"> 
+  <img src="https://img.shields.io/badge/Inteligencia_Artificial-8A2BE2?style=for-the-badge&logo=anthropic&logoColor=white" alt="IA"> 
+  <img src="https://img.shields.io/badge/Blockchain_Tech-121D33?style=for-the-badge&logo=bitcoin&logoColor=white" alt="Blockchain"> 
 </p>
 
-<br />
+---
 
-<h2 align="center">
-Tech Stack
-</h2>
-
-<h3 align="center">Front-End</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,vue,bootstrap,sass">
-</p>
-
-<h3 align="center">Back-End</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,go,laravel,django,firebase">
-</p>
-
-<h3 align="center">Databases</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongo,postgresql,sqlite">
-</p>
-
-<h3 align="center">Tools / DevOps</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,git,github">
-</p>
-
-<h3 align="center">Cybersecurity</h3>
+## 💼 Resumen de Experiencia Híbrida
 
 ```bash
-Raulleivalobos@github:~$ echo $PROFILE
-ROLE        : Front-End Developer
-SECURITY    : Web Security
-ACTIVITY    : Ethical Hacking
-MODE        : CTF Player
-SPECIALTY   : Pentesting
+Raulleivalobos@tech-finance:~$ ./ejecutar_perfil.sh
+[+] Cargando Módulos Profesionales...
 
-Raulleivalobos@github:~$ tools --list
-Nmap
-Gobuster
-Dirb
-ffuf
-Burp Suite
-Hydra
-John the Ripper
-Hashcat
-Metasploit
-tcpdump
-Wireshark
-Ghidra
+> ROL ACTUAL       : Finanzas Senior & Arquitecto Cloud/Front-End
+> HITOS NEGOCIO    : Liderazgo de 170+ colaboradores | Ahorros por > USD 1 Millón mediante optimización.
+> PROYECTOS TECH   : Skardkey (SaaS Producción) | ClimaCL App | creditia.cl hoy www.Klicker.cl(IA Financiera).
+> EXPERTISE ERP    : Implementación internacional SAP R/3 (Chile, Perú, Nicaragua).
+> EDUCACIÓN        : MBA Executive (EGEU) y MBA (Universidad de Sevilla) | Postgrado Blockchain (IEBS).
 
-Raulleivalobos@github:~$ echo $PLATFORMS
-HackMyVM
-VulnHub
-Vulnyx
-
-wRaulleivalobos@github:~$ echo $PLATFORMS
-HackMyVM
-VulnHub
-Vulnyx
-
-Raulleivalobos@github:~$ sudo rm -rf / --no-preserve-root
-permission denied: self-destruct disabled
+[+] Status: Listo para arquitecturar soluciones financieras y tecnológicas de alto impacto.
 ```
 
 <p align="center">
