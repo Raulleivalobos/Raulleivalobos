@@ -53,7 +53,7 @@ A continuación, presento sistemas y aplicaciones que he desarrollado, abarcando
 
 > Aplicación web dinámica de pronóstico meteorológico para Chile con autenticación de usuarios y consumo de APIs externas. Cuenta con rutas protegidas, gestión de estado global para preferencias de usuarios e interfaces limpias orientadas al turismo.
 
-- **Repositorio:** [Ver código fuente en GitHub](https://github.com/Raulleivalobos/weather-frontend-m7)
+- **Repositorio:** [Ver código fuente en GitHub](https://github.com/Raulleivalobos/weather-frontend-m8)
 
 - **Stack Tecnológico:** <p align="left">
   <img src="https://img.shields.io/badge/Framework-Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue">
